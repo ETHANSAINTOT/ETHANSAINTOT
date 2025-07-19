@@ -55,6 +55,7 @@
 ## 🎯 Concepts
 
 ✅ Comfortable with **Object-Oriented Programming (OOP)**
+✅ Comfortable with **recursive function**
 
 ---
 
