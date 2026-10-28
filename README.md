@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ethan Saintot
 
-🎓 **Epitech Student 2029 (3rd year on 5 year cycle)** 
+🎓 **Epitech Student 2029 (3rd year on 5 year cycle)**  
 💼 A lot of projects realized  
 📁 All Epitech projects are available on my GitHub  
 
